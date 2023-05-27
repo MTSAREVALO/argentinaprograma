@@ -1,0 +1,18 @@
+PARTE 1
+Ejercicio 1
+a- si el minuendo es 10 y el sustraendo es 2 devuelve 8
+
+b- el resultado de la multplicacion de los valores 2 , 17 y 6 es 204
+
+Ejercicio 2
+a- para un rectangulo de base 5 y altura 3 el area es 15
+b- para un rectangulo de base 12,5 y altura 5,3 el area es 66,25
+
+Ejercicio 3
+a- 50 grados fahrenheit son 10 grados celsius 
+b- 75 grados fahrenheit son 23,88888888888889 grados celsius
+
+Ejercicio 4
+a- el promedio entre 5 , 7 y 9 es 7
+b- el promedio entre -2, -3 y -8 es -4,3333
+c- el promedio entre -1,2 , 5,3 y -3,3 es 0,26666666
